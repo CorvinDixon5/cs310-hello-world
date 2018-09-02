@@ -1,6 +1,6 @@
 /**
  *
- * @author Corvin Dixon
+ * @author Your Name
  */
 
 public class HelloWorld {
